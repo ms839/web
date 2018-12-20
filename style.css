@@ -1,0 +1,151 @@
+body {
+    background-color: #1b1b1b;
+    font-family: Verdana;
+}
+
+.Heading {
+    text-align: center;
+    font-size: 40px;
+    padding: 5px;
+    color: white;
+    background-color: #2c2c3b;
+}
+
+#abouttext {
+    position: relative;
+    background-color: #2c2c2c;
+    padding: 5px;
+    color: white;
+    top: 25px;
+    line-height: 25px
+}
+
+#teacherbio {
+    position: relative;
+    top: 40px;
+    background-color: #2c2c2c;
+    width: 150px;
+    line-height: 40px;
+    padding: 5px;
+    color: white;
+}
+
+#neocities {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    right: -166px;
+    top: -248px;
+    color: #2c2c2c;
+}
+
+#codepenlogo {
+    position: relative;
+    top: -450px;
+    right: -425px;
+    width: 200px;
+}
+
+#ImageGallery {
+    position: relative;
+    right: -125px;
+    top: -250px;
+    border: solid 10px #2c2c2c;
+}
+
+#ImageGalleryHeading {
+    position: relative;
+    top: -275px;
+    
+}
+
+#Copyright {
+    color: white;
+    font-size: 8px
+}
+
+.links {
+    color: white;
+    background-color: #2c2c3b;
+    padding-left: 10px;
+    position: relative;
+}
+
+a:hover {
+    color: #73aaad;
+    -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+   transition:.5s;
+}
+
+#CSS {
+    text-align: right;
+}
+
+a {
+    color: #2d5865;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: #7e7e7e;
+  color: white;
+  padding: 10px;
+  font-size: 12px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #454545;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #34343;}
+
+#HTMLHeader {
+        text-align: center;
+    font-size: 40px;
+    padding: 5px;
+    color: white;
+    background-color: #2c2c3b;
+}
+
+#introduction {
+    color: white;
+}
+
+#headings {
+    color: white;
+}
+
+#explanation {
+    color: white;
+}
